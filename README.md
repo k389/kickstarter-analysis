@@ -1,5 +1,5 @@
 # kickstarter-analysis
-<<<<<<< HEAD
+
 Analysis on kickstarter data
 
 ### Challenge
