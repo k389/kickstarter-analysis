@@ -10,3 +10,7 @@ Kickstarter Analysis to view fundraising campaign dataset that raise funds for t
 * calculations show the outcomes of the play fundraising campaigns based on the fundraising goal. 
 
 * evaluation of the outcomes of theater fundraising campaigns based on the launch date. When is the best time to start a fundraising campaign? 
+
+https://github.com/k389/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date%20(2).png
+
+https://github.com/k389/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png
